@@ -3,6 +3,8 @@ RomanPushkin-DailyGrid
 
 (русская версия ниже, russian version below)
 
+![daily-grid](https://f.cloud.github.com/assets/1477672/1849400/2c6cb044-76b2-11e3-844d-adfa786fbb7c.png)
+
 Daily Grid indicator for Metatrader5 (MQL)
 
 This indicator will automatically place vertical lines at the beginning of the day (at the first bar of the day). Your timeframe should be H12 or less.
