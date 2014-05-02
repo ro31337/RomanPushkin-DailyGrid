@@ -20,6 +20,11 @@ How to install
 
 ![romanpushkin-dailygrid-install](https://f.cloud.github.com/assets/1477672/1896091/e035f5ac-7b7d-11e3-9736-6149ae6ce7a3.gif)
 
+FAQ
+---
+Q: Indicator doesn't show up in list of indicators!
+
+A: Make sure you have downloaded IncGUI.mqh. Place IncGUI.mqh to C:\Users\\__YOUR_USERNAME__\AppData\Roaming\MetaQuotes\Terminal\\__LONG_ID_HERE__\MQL5\Include\ folder
 
 See also
 ---------
@@ -49,6 +54,13 @@ MIT
 * Перетащите индикатор из панели "Навигатор" на ваш график:
 
 ![romanpushkin-dailygrid-install](https://f.cloud.github.com/assets/1477672/1896091/e035f5ac-7b7d-11e3-9736-6149ae6ce7a3.gif)
+
+
+FAQ
+---
+Q: Индикатор не отображается в списке индикаторов!
+
+A: Убедитесь, что вы скачали файл IncGUI.mqh. Положите файл IncGUI.mqh в папку C:\Users\\__YOUR_USERNAME__\AppData\Roaming\MetaQuotes\Terminal\\__LONG_ID_HERE__\MQL5\Include\
 
 
 См.также
